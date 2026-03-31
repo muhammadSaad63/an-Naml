@@ -1,5 +1,5 @@
 ### بسم اللہ الرحمان الرحیم
-# Takhleeq (تخلیق) 🌐
+# Takhleeq (تخلیق) 🌐🪼🧬
 
 **Takhleeq** (meaning *Creation*) is a high-performance simulation engine built in C++ using **raylib**. It serves as a digital sandbox for exploring the emergent beauty of mathematical patterns, biological growth, and physical laws.
 
@@ -31,7 +31,7 @@ README.txt
 
 ## 🧬 Simulation Families
 
-### 1. Cellular Automata
+### 1. (Cellular) Automata
 These simulations operate on a **discrete grid**. Every cell's state at time $T+1$ is determined solely by the states of its immediate neighbors at time $T$.
 * **Abelian Sandpile:** A model of self-organized criticality where grains of sand "topple" once a threshold is reached.
 * **Brian's Brain:** A three-state cellular automaton (Ready, Firing, Refractory) that mimics neural activity.
@@ -65,11 +65,14 @@ Unlike the grid-based automata, these simulations use **continuous vector mathem
 
 ## 🥸 Credits
 This project really wouldn't have been possible without guidance & inspiration from these seniors of mine: :>
-* **[Mr. Ebrahim Muneer]**(https://github.com/DefNotEbbi)
-* **[Mr. Abdul Hadi ul Haq]**(https://github.com/abdulhadiulhaque)
+* **[Mr. Ebrahim Muneer](https://github.com/DefNotEbbi)**
+* **[Mr. Abdul Hadi ul Haq](https://github.com/abdulhadiulhaq)**
 
 ---
 
-### License
+## 📜 License
 
-This project is open-source and available under the MIT License.
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for the full text. 
+
+> "Takhleeq is open-source and free for anyone to study, modify, and distribute. Exploration of the digital universe should be accessible to all."
