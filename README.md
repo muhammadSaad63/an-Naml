@@ -1,7 +1,12 @@
-### بسم اللہ 
+### بسم اللہ الرحمان الرحیم
 # Takhleeq (تخلیق) 🌐
 
-**an-Naml** is a high-performance C++ simulation of **Langton's Ant**, built using the **raylib** framework. It features a dual-state system that allows users to manually seed the world before letting the cellular automaton take over.
+**Takhleeq** (meaning *Creation*) is a high-performance simulation engine built in C++ using **raylib**. It serves as a digital sandbox for exploring the emergent beauty of mathematical patterns, biological growth, and physical laws.
+
+---
+
+## 🚀 Vision
+The goal of **Takhleeq** is to provide a unified interface to observe how simple, local rules—whether they be grid-based, recursive, or physical—can give rise to global complexity. 
 
 ---
 
@@ -57,9 +62,6 @@ Unlike the grid-based automata, these simulations use **continuous vector mathem
 * **Build System:** CMake
 
 ---
-
-## 🚀 Vision
-The goal of **Takhleeq** is to provide a unified interface to observe how simple, local rules—whether they be grid-based, recursive, or physical—can give rise to global complexity. 
 
 ## 🥸 Credits
 This project really wouldn't have been possible without guidance & inspiration from these seniors of mine: :>
