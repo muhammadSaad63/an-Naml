@@ -5,6 +5,19 @@
 
 ---
 
+## 📑 Table of Contents
+* [🚀 Vision](#-vision)
+* [📂 Project Structure](#-project-structure)
+* [🧬 Simulation Families](#-simulation-families)
+    * [1. (Cellular) Automata](#1-cellular-automata)
+    * [2. Fractals](#2-fractals)
+    * [3. Physics](#3-physics)
+* [🛠️ Tech Stack](#️-tech-stack)
+* [🥸 Credits](#-credits)
+* [📜 License](#-license)
+
+---
+
 ## 🚀 Vision
 The goal of **Takhleeq** is to provide a unified interface to observe how simple, local rules—whether they be grid-based, recursive, or physical—can give rise to global complexity. 
 
