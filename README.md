@@ -2,6 +2,8 @@
 
 **an-Naml** is a high-performance C++ simulation of **Langton's Ant**, built using the **raylib** framework. It features a dual-state system that allows users to manually seed the world before letting the cellular automaton take over.
 
+<to be reimagined)
+
 ---
 
 ## 📖 Overview
