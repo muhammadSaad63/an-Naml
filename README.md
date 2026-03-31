@@ -5,16 +5,16 @@
 
 ---
 
-## 📑 Table of Contents
-* [🚀 Vision](#-vision)
-* [📂 Project Structure](#-project-structure)
-* [🧬 Simulation Families](#-simulation-families)
-    * [1. (Cellular) Automata](#1-cellular-automata)
-    * [2. Fractals](#2-fractals)
-    * [3. Physics](#3-physics)
-* [🛠️ Tech Stack](#️-tech-stack)
-* [🥸 Credits](#-credits)
-* [📜 License](#-license)
+## 📑 Navigation
+
+| Section | Description |
+| :--- | :--- |
+| [**🚀 Vision**](#-vision) | The philosophy behind Takhleeq |
+| [**📂 Project Structure**](#-project-structure) | File organization and directory map |
+| [**🧬 Simulation Families**](#-simulation-families) | Deep dive into the 3 core simulation types |
+| [**🛠️ Tech Stack**](#️-tech-stack) | Languages, libraries, and build tools |
+| [**🥸 Credits**](#-credits) | Mentors and contributors |
+| [**📜 License**](#-license) | Usage rights and open-source details |
 
 ---
 
