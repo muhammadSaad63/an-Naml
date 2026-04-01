@@ -4,6 +4,7 @@
 **Takhleeq** (meaning *Creation*) is a high-performance simulation engine built in C++ using **raylib**. It serves as a digital sandbox for exploring the emergent beauty of mathematical patterns, biological growth, and physical laws.
 
 ---
+<br>
 
 ## 📑 Table of Contents
 
@@ -15,6 +16,8 @@
 | [**🛠️ Tech Stack**](#️-tech-stack) | Languages, libraries, and build tools |
 | [**🥸 Credits**](#-credits) | Mentors and contributors |
 | [**📜 License**](#-license) | Usage rights and open-source details |
+
+<br>
 
 ---
 
