@@ -33,14 +33,13 @@ The goal of **Takhleeq** is to provide a unified interface to observe how simple
 
 The project is organized into three distinct "families" of simulation, separated by their underlying mathematical logic and computational implementation:
 
-```
-/
-├── src/
-|   ├── automata/    # Grid-based discrete logic
-|   ├── fractals/    # Recursive & iterative geometry
-|   ├── physics/     # Vector-based continuous dynamics
-|   └── takhleeq.cpp
-|
+```text
+src/
+└── include/
+    ├── automata/    # Grid-based discrete logic
+    ├── fractals/    # Recursive & iterative geometry
+    └── physics/     # Vector-based continuous dynamics
+    takhleeq.cpp
 .gitignore
 CMakeLists.txt
 LICENSE
