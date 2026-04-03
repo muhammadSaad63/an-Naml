@@ -10,12 +10,12 @@
 
 | Section | Description |
 | :--- | :--- |
-| [**🚀 Vision**](#-vision) | The philosophy behind Takhleeq |
-| [**📂 Project Structure**](#-project-structure) | File organization and directory map |
-| [**🧬 Simulation Families**](#-simulation-families) | Deep dive into the 3 core simulation types |
-| [**🛠️ Tech Stack**](#️-tech-stack) | Languages, libraries, and build tools |
-| [**🥸 Credits**](#-credits) | Mentors and contributors |
-| [**📜 License**](#-license) | Usage rights and open-source details |
+| [**🚀 Vision**](#vision-) | The philosophy behind Takhleeq |
+| [**📂 Project Structure**](#project-structure-) | File organization and directory map |
+| [**🧬 Simulation Families**](#simulation-families-) | Deep dive into the 3 core simulation types |
+| [**🛠️ Tech Stack**](#️tech-stack-) | Languages, libraries, and build tools |
+| [**🥸 Credits**](#credits-) | Mentors and contributors |
+| [**📜 License**](#license-) | Usage rights and open-source details |
 
 <br>
 
@@ -34,36 +34,16 @@ The goal of **Takhleeq** is to provide a unified interface to observe how simple
 The project is organized into three distinct "families" of simulation, separated by their underlying mathematical logic and computational implementation:
 
 ```text
-/
-└── src/
-│   └── include/
-│       │
-│       ├── automata/                  # Grid-based discrete logic
-│       │   ├── abelianSandPile/
-│       │   ├── briansBrain/
-│       │   ├── gameOfLife/
-│       │   ├── langtonsAnt/
-│       │   ├── langtonsLoops/
-│       │   └── seeds/
-│       │
-│       ├── fractals/                  # Recursive & iterative geometry
-│       │   ├── barnsleysFern/
-│       │   ├── kochSnowFlakes/
-│       │   ├── mandelbrot/
-│       │   └── sierpinskiTriangle/
-│       │
-│       └── physics/                   # Vector-based continuous dynamics
-│       │   ├── boids/
-│       │   ├── galaxies/
-│       │   ├── particleLife/
-│       │   └── solarSystem/
-│       │ 
-│       └── takhleeq.cpp
-│    
-├── .gitignore
-├── CMakeLists.txt
-├── LICENSE
-└── README.txt
+src/
+└── include/
+    ├── automata/    # Grid-based discrete logic
+    ├── fractals/    # Recursive & iterative geometry
+    └── physics/     # Vector-based continuous dynamics
+    takhleeq.cpp
+.gitignore
+CMakeLists.txt
+LICENSE
+README.txt
 ```
 
 <br>
@@ -108,6 +88,8 @@ Unlike the grid-based automata, these simulations use **continuous vector mathem
 This project really wouldn't have been possible without guidance & inspiration from these seniors of mine: :>
 * **[Mr. Ebrahim Muneer](https://github.com/DefNotEbbi)**
 * **[Mr. Abdul Hadi ul Haq](https://github.com/abdulhadiulhaq)**
+* **[Mr. Haris Zamir](https://github.com/Har15Zamir)**
+* **[Mr. Hamza Faisal Ahmed](https://github.com/hamzafaisalahmed)**
 
 <br>
 
